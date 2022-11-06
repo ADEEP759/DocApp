@@ -1,1 +1,6 @@
-Run the Project on ReactJs by using     npm start 
+for run the project please follow the  steps 
+install react app
+now download the zip file from the github link 
+then install react-router-dom ,bootstrap 
+npm start 
+
