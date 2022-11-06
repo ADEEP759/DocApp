@@ -1,0 +1,29 @@
+{
+    "category":[
+        {
+            "id":1,
+            "Category":"NueroLogy",
+            "Category_description":" Choose the speciallist in NueroLogy regarding diseases of the nervous system.",
+            "x":"/Img/nuero.jpg"
+        },
+        {
+            "id":2,
+            "Category":"Dental Obontology",
+            "Category_description":" Choose the speciallist in Dental Obontology regarding diseases of teeth.",
+            "x":"/Img/tooth.jpg"
+        },
+        {
+            "id":3,
+            "Category":"Cardiology",
+            "Category_description":" Choose the speciallist in Cardiology regarding diseases of the heart.",
+            "x":"/Img/Heart.jpg"
+        },
+        {
+            "id":4,
+            "Category":"Nephrology",
+            "Category_description":" Choose the speciallist in Nephrology regarding diseases of kidney.",
+            "x":"/Img/Kidney.jpg"
+        }
+        
+    ]
+}

@@ -1,0 +1,122 @@
+@import url(https://fonts.googleapis.com/css2?family=Chau+Philomene+One&display=swap);
+
+
+
+.pagebg{
+    background-color: rgb(132, 138, 143); 
+   
+}
+
+#Box{
+    position: absolute;
+    top: 270px;
+    margin-left: 10px;
+
+}
+#app{
+    position: relative;
+    top: 180px;
+    font-size: 40px;
+    width: 200px;
+    
+    font-family: 'Chau Philomene One', sans-serif;
+    color: rgb(92, 94, 95);
+    font-weight: lighter;
+}
+#Backbtn{
+    position: absolute;
+    top: 150px;
+    margin-left: 15px;
+    color: black;
+    cursor: pointer;
+  
+  }
+  
+#ddlViewBy{
+    margin-left: 20px;
+    width: 170px;
+    height: 40px;
+    color: black;
+    border: none;
+    background-color: rgb(253, 253, 253);
+    cursor: pointer;
+}
+#Cbtn{
+    margin-top: 40px;
+
+}
+#datebox{
+    width: 100px;
+    height: 130px;
+    
+    cursor: pointer;
+    border: 1.7px solid rgb(23, 96, 190);
+    
+    margin-top: 10px;
+    margin-left: 20px;
+    border-radius:  15px;
+    
+
+}
+
+#day{
+   
+    font-size: 20px;
+    margin-top: 10px;
+}
+#date{
+   
+    font-size: 30px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+
+.scrollmenu{
+    display:flex;
+
+    /* align-items: flex-end; */
+}
+
+
+
+.scroll{
+    position: relative;
+    left: -25px;
+    width: 500px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    
+
+}
+
+#timing1{
+    position: relative;
+    top: 30px;
+}
+div button{
+    margin: 5px;
+}
+#desc{
+    width:350px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+
+
+@media only screen and (max-width: 900px) {
+    .scroll{
+        position: relative;
+        left: -25px;
+        width: 360px;
+        overflow-x: scroll;
+        overflow-y: hidden;
+        
+    
+    }
+
+
+
+
+}

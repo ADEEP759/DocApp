@@ -1,0 +1,138 @@
+{
+    "doctors":[
+        {
+            "id":"1",
+            "image":"/Img/Doctor.jpg",
+            "category":"1",
+            "Name":"Doctor A",
+            "descripiton":" Doctor is very high rated and expert in the specialisity .He will treat you very well.Doctor is very high rated and expert in the specialisity .He will treat you very well.Doctor is very high rated and expert in the specialisity .He will treat you very well.",
+            "assure":"Assured By DocApp",
+            "expreinece":"7",
+            "fee":"₹700"
+        },
+        {
+            "id":"2",
+            "category":"1",
+            "image":"/Img/Doctor.jpg",
+            "Name":"Doctor B",
+            "descripiton":" Doctor is very high rated and expert in the specialisity .He will treat you very well.Doctor is very high rated and expert in the specialisity .He will treat you very well.Doctor is very high rated and expert in the specialisity .He will treat you very well.Doctor is very high rated and expert in the specialisity .He will treat you very well.Doctor is very high rated and expert in the specialisity .He will treat you very well.Doctor is very high rated and expert in the specialisity .He will treat you very wellDoctor is very high rated and expert in the specialisity .He will treat you very well.Doctor is very high rated and expert in the specialisity .He will treat you very well.Doctor is very high rated and expert in the specialisity .He will treat you very wellDoctor is very high rated and expert in the specialisity .He will treat you very well.Doctor is very high rated and expert in the specialisity .He will treat you very well.Doctor is very high rated and expert in the specialisity .He will treat you very well",
+            "assure":"Assured By DocApp",
+            "expreinece":"5",
+            "fee":"₹900"
+        },
+        {
+            "id":"3",
+            "category":"1",
+            "image":"/Img/Doctor.jpg",
+            "Name":"Doctor C",
+            "descripiton":" Doctor is very high rated and expert in the specialisity .He will treat you very well.Doctor is very high rated and expert in the specialisity .He will treat you very well.Doctor is very high rated and expert in the specialisity .He will treat you very well.Doctor is very high rated and expert in the specialisity .He will treat you very well.Doctor is very high rated and expert in the specialisity .He will treat you very well.Doctor is very high rated and expert in the specialisity .He will treat you very well",
+            "assure":"Assured By DocApp",
+            "expreinece":"8",
+            "fee":"₹1020"
+        },
+        {
+            "id":"4",
+            "category":"1",
+            "image":"/Img/Doctor.jpg",
+            "Name":"Doctor D",
+            "descripiton":" Doctor is very high rated and expert in the specialisity .He will treat you very well.Doctor is very high rated and expert in the specialisity .He will treat you very well.Doctor is very high rated and expert in the specialisity .He will treat you very well.",
+            "assure":"Assured By DocApp",
+            "expreinece":"4",
+            "fee":"₹1200"
+        },
+        {
+            "id":"5",
+            "category":"2",
+            "image":"/Img/Doctor.jpg",
+            "Name":"Doctor E",
+            "descripiton":" Doctor is very high rated and expert in the specialisity .He will treat you very well.Doctor is very high rated and expert in the specialisity .He will treat you very well.Doctor is very high rated and expert in the specialisity .He will treat you very well.",
+            "assure":"Assured By DocApp",
+            "expreinece":"5",
+            "fee":"₹527"
+        },
+        {
+            "id":"6",
+            "category":"2",
+            "image":"/Img/Doctor.jpg",
+            "Name":"Doctor F",
+            "descripiton":" Doctor is very high rated and expert in the specialisity .He will treat you very well.Doctor is very high rated and expert in the specialisity .He will treat you very well.Doctor is very high rated and expert in the specialisity .He will treat you very well.",
+            "assure":"Assured By DocApp",
+            "expreinece":"6",
+            "fee":"₹869"
+        },
+        {
+            "id":"7",
+            "category":"2",
+            "image":"/Img/Doctor.jpg",
+            "Name":"Doctor G",
+            "descripiton":" Doctor is very high rated and expert in the specialisity .He will treat you very well.Doctor is very high rated and expert in the specialisity .He will treat you very well.Doctor is very high rated and expert in the specialisity .He will treat you very well.",
+            "assure":"Assured By DocApp",
+            "expreinece":"6",
+            "fee":"₹1700"
+        },
+        {
+            "id":"8",
+            "category":"3",
+            "image":"/Img/Doctor.jpg",
+            "Name":"Doctor H",
+            "descripiton":" Doctor is very high rated and expert in the specialisity .He will treat you very well.Doctor is very high rated and expert in the specialisity .He will treat you very well.Doctor is very high rated and expert in the specialisity .He will treat you very well.",
+            "assure":"Assured By DocApp",
+            "expreinece":"5",
+            "fee":"₹1150"
+            
+
+        },
+        {
+            "id":"9",
+            "category":"3",
+            "image":"/Img/Doctor.jpg",
+            "Name":"Doctor I",
+            "descripiton":" Doctor is very high rated and expert in the specialisity .He will treat you very well.Doctor is very high rated and expert in the specialisity .He will treat you very well.Doctor is very high rated and expert in the specialisity .He will treat you very well.",
+            "assure":"Assured By DocApp",
+            "expreinece":"6",
+            "fee":"₹702"
+        },
+        {
+            "id":"10",
+            "category":"3",
+            "image":"/Img/Doctor.jpg",
+            "Name":"Doctor J",
+            "descripiton":" Doctor is very high rated and expert in the specialisity .He will treat you very well.Doctor is very high rated and expert in the specialisity .He will treat you very well.Doctor is very high rated and expert in the specialisity .He will treat you very well.",
+            "assure":"Assured By DocApp",
+            "expreinece":"6",
+            "fee":"₹1400"
+
+        },
+        {
+            "id":"11",
+            "category":"4",
+            "Name":"Doctor K",
+            "image":"/Img/Doctor.jpg",
+            "descripiton":" Doctor is very high rated and expert in the specialisity .He will treat you very well.Doctor is very high rated and expert in the specialisity .He will treat you very well.Doctor is very high rated and expert in the specialisity .He will treat you very well.",
+            "assure":"Assured By DocApp",
+            "expreinece":"5",
+            "fee":"₹1150"
+        },
+        {
+            "id":"12",
+            "category":"4",
+            "image":"/Img/Doctor.jpg",
+            "Name":"Doctor L",
+            "descripiton":" Doctor is very high rated and expert in the specialisity .He will treat you very well.Doctor is very high rated and expert in the specialisity .He will treat you very well.Doctor is very high rated and expert in the specialisity .He will treat you very well.",
+            "assure":"Assured By DocApp",
+            "expreinece":"6",
+            "fee":"₹702"
+        },
+        {
+            "id":"13",
+            "category":"4",
+            "image":"/Img/Doctor.jpg",
+            "Name":"Doctor M",
+            "descripiton":" Doctor is very high rated and expert in the specialisity .He will treat you very well.Doctor is very high rated and expert in the specialisity .He will treat you very well.Doctor is very high rated and expert in the specialisity .He will treat you very well.",
+            "assure":"Assured By DocApp",
+            "expreinece":"6",
+            "fee":"₹1400"
+
+        }
+    ]
+}

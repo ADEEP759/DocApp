@@ -1,0 +1,134 @@
+
+.tickmark{
+    position: absolute;
+    top: 100px;
+    left: 50px;
+    width: 500px;
+    height:400px;
+}
+
+
+#dbox{
+    width: 370px;
+    height: 120px;
+    background-color: rgb(27, 77, 216);
+    border-radius: 30px;
+    position: absolute;
+    top:100px;
+    right:200px;
+}
+
+.docimg{
+    position: relative;
+    top: 18px;
+    width: 29%;
+    height: 70%;
+    margin-left: 18px;
+    border-radius: 10px;
+    border: 2px solid white;
+}
+#dtitle{
+    position: absolute;
+    right: 18px;
+    top: 18px;
+    color: rgb(250, 250, 250);
+    
+    
+}
+#dlist{
+    position: absolute;
+    top:240px;
+    right:200px;
+    width: 370px;
+    height: 120px;
+    
+}
+.col-sm-9{
+    position: absolute;
+    left: 180px;
+    font-size: 18px;
+}
+.col-sm-3{
+    position: absolute;
+    left: 10px;
+    font-size: 18px;
+}
+
+#timing{
+    margin-top: 90px;
+    margin-left: 85px;
+}
+#tym{
+    margin-top: 30px;
+}
+
+@media only screen and (max-width: 900px) {
+   
+    .tickmark{
+        position: absolute;
+        top: 65px;
+        left: 30px;
+        width: 300px;
+        height:250px;
+    }
+    
+    
+    #dbox{
+        width: 360px;
+        height: 120px;
+        background-color: rgb(27, 77, 216);
+        border-radius: 30px;
+        position: absolute;
+        top:290px;
+        left:8px;
+    }
+    
+    .docimg{
+        position: relative;
+        top: 18px;
+        width: 29%;
+        height: 70%;
+        margin-left: 18px;
+        border-radius: 10px;
+        border: 2px solid white;
+    }
+    #dtitle{
+        position: absolute;
+        right: 10px;
+        top: 25px;
+        color: rgb(250, 250, 250);
+        width: 200px;
+        
+        
+    }
+    #dlist{
+        position: absolute;
+        top:390px;
+        left:10px;
+        width: 370px;
+        height: 120px;
+        
+    }
+    .col-sm-9{
+        position: absolute;
+        left: 180px;
+        font-size: 18px;
+    }
+    .col-sm-3{
+        position: absolute;
+        left: 10px;
+        font-size: 18px;
+    }
+    
+    #timing{
+        margin-top: 90px;
+        margin-left: 75px;
+    }
+    #tym{
+        margin-top: 30px;
+        padding: 10px;
+    }
+
+
+
+}

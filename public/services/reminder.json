@@ -1,0 +1,22 @@
+{
+    "reminders":
+    [
+        {
+            "doctor_id":1,
+            "user_id":1,
+            "category":"1",
+            "reminder description":"Test description goes here how are you",
+            "date":"2202-10-10",
+            "time":"10:10 AM"
+        },
+        {
+            "doctor_id":2,
+            "category":"1",
+            "image":"/Img/Doctor.jpg",
+            "user_id":1,
+            "reminder description":"Test description goes here how are you",
+            "date":"2202-10-10",
+            "time":"10:10 AM"
+        }
+    ]
+}
